@@ -10,3 +10,8 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoedney&layout=compact&theme=tokyonight" />
 </a>
+
+<div style="display: inline-block"><br>
+  <img height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+</div>         
